@@ -1,9 +1,3 @@
----
-title: "Autonomous Object Classification and Manipulation Robotic Arm in 3D Simulation"
-author: Kecheng Wan, Tiancheng Pu, Xiaorong Wang and Yaodan Zhang
-output: html_document
----
-
 # Autonomous Object Classification and Manipulation Robotic Arm in 3D Simulation
 
 ## Team Member and Roles
